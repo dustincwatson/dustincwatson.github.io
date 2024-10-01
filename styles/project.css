@@ -77,7 +77,7 @@ p.fixed {
     padding: 1em;  
 }
 header {
-    border-bottom: 2px solid maroon; /* Adds the maroon line below the header */
-    margin-bottom: 1em; /* Adds space between the header and the content below */
-    padding-bottom: 0.5em; /* Ensures there's some space inside the header */
+    border-bottom: 2px solid maroon;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
 }
