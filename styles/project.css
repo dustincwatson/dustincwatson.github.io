@@ -46,7 +46,7 @@ article {
 }
 article h3 {
     column-span: all;
-    border-bottom: 2px solid maroon;
+    border-top: 2px solid maroon;
 }
 article img {
     float: left;
@@ -65,7 +65,7 @@ aside {
     background-color: #ffebc6;
     padding-left: 1em;
     padding-bottom: 1em;
-    border-bottom: 2px solid maroon;
+    border-top: 2px solid maroon;
 }
 footer {
     clear: both;
