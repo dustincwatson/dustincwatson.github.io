@@ -27,6 +27,7 @@ header h2 {
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
+    border-bottom: 2px solid maroon;
 }
 header img {
     float: left;
@@ -68,4 +69,11 @@ aside {
 footer {
     clear: both;
     border-top: 2px solid maroon;
+}
+p.fixed {
+    width: auto;
+    position: fixed;
+    background-color: lightgreen;
+    border: 2px solid green;
+    padding: 1em
 }
