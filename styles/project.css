@@ -11,7 +11,6 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    border-top: 2px solid maroon;
 }
 a:focus, a:hover {
     font-style: italic;
@@ -75,7 +74,10 @@ p.fixed {
     position: fixed;
     background-color: lightgreen;
     border: 2px solid green;
-    padding: 1em;
-    
-    
+    padding: 1em;  
+}
+header {
+    border-bottom: 2px solid maroon; /* Adds the maroon line below the header */
+    margin-bottom: 1em; /* Adds space between the header and the content below */
+    padding-bottom: 0.5em; /* Ensures there's some space inside the header */
 }
