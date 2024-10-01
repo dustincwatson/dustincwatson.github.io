@@ -20,6 +20,7 @@ a:focus, a:hover {
 }
 header {
     border-bottom: 2px solid maroon;
+    padding-top: 30px;
 }
 header h1 {
     font-size: 175%;
@@ -78,6 +79,6 @@ p.fixed {
     background-color: lightgreen;
     border: 2px solid green;
     padding: 1em;
-    margin-right: 30px;
+    padding-right: 30px;
     
 }
