@@ -43,10 +43,10 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    border-bottom: 2px solid maroon;
 }
 article h3 {
     column-span: all;
+    border-bottom: 2px solid maroon;
 }
 article img {
     float: left;
