@@ -70,7 +70,7 @@ footer {
     clear: both;
     border-top: 2px solid maroon;
 }
-p.fixed {
+.fixed {
     width: auto;
     float: right;
     position: fixed;
