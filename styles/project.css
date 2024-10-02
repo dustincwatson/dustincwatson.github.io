@@ -18,6 +18,10 @@ a:focus, a:hover {
     border: 3px blue;
     border-style: dotted solid;
 }
+header {
+    padding-bottom: 20px;
+    border-bottom: 2px solid maroon;
+}
 header h1 {
     font-size: 175%;
     color: maroon;
@@ -71,11 +75,11 @@ footer {
     border-top: 2px solid maroon;
 }
 .fixed {
+    width: auto;
     position: fixed;
+    bottom: 15%;
+    right: 0;
+    border: 3px solid green;
     background-color: lightgreen;
-    bottom: 10px;
-    right: 10px;
-    top: 5em;
-    padding: 10px;
-    border: 2px solid green;
+    padding: 1em;
 }
