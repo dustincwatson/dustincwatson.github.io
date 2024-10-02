@@ -73,6 +73,9 @@ footer {
 .fixed {
     position: fixed;
     background-color: lightgreen;
+    bottom: 10px;
+    right: 10px;
+    top: 5em;
     padding: 10px;
     border: 2px solid green;
 }
