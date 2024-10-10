@@ -25,3 +25,9 @@ article h1 {
     clear: both;
     padding-top: 20px;
 }
+aside ol {
+    list-style-type: upper-roman;
+}
+aside ul {
+    list-style-type: square;
+}
