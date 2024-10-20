@@ -39,6 +39,9 @@ article {
     clear: left;
     width: 80%;
     margin-left: 2em;
+    column-count: 3;
+    column-rule: 2px dashed blue;
+    column-gap: 2em;
 }
 article h1 {
     clear: both;
