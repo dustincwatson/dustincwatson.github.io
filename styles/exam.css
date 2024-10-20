@@ -39,10 +39,7 @@ body {
 #nav_menu ul li a.current { 
     color: yellow; 
 }
-article {
-    padding-top: 20px;
-    border-top: 2px solid blue;
-}
+
 article h1 {
     clear: both;
     padding-top: 20px;
