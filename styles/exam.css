@@ -44,4 +44,7 @@ body {
     background-color: lightblue;
     padding: 1em;
 }
+article {
+    clear:both
+}
 
