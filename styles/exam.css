@@ -35,15 +35,6 @@ body {
 #nav_menu ul li a.current { 
     color: yellow; 
 }
-aside {
-    width: 30%;
-    position: fixed;
-    bottom: 45%;
-    right: 0;
-    border: 2px solid blue;
-    background-color: lightblue;
-    padding: 1em;
-}
 article {
     clear: left;
     width: 70%;
@@ -66,4 +57,12 @@ article img {
     margin-right: 1em;
     margin-bottom: 1em;
 }
-
+aside {
+    width: 15%;
+    position: fixed;
+    bottom: 45%;
+    right: 0;
+    border: 2px solid blue;
+    background-color: lightblue;
+    padding: 1em;
+}
