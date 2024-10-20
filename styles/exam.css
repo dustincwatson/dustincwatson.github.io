@@ -59,8 +59,8 @@ article {
     clear: both;
     width: 70%;
     float: left;
-    column-count: 2;
-    column-rule: 2px dotted maroon;
+    column-count: 3;
+    column-rule: 4px dashed blue;
     column-gap: 2em;
     margin-left: 2em;
 }
