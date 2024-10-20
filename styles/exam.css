@@ -44,7 +44,7 @@ article {
     width: 75%;
     margin-left: 2em;
     column-count: 3;
-    column-rule: 2px dashed blue;
+    column-rule: 4px dashed blue;
     column-gap: 2em;
 }
 article h1 {
@@ -72,5 +72,5 @@ aside {
 footer {
     clear: both;
     text-align: center;
-    border-top: 2px solid maroon;
+    border-top: 4px solid blue;
 }
