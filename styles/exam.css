@@ -47,6 +47,11 @@ article {
     column-rule: 4px dashed blue;
     column-gap: 2em;
 }
+article p::first-letter {
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
 article h1 {
     column-span: all;
     color: blue;
