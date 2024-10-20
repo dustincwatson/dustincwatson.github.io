@@ -37,8 +37,7 @@ body {
 }
 article {
     clear: left;
-    width: 70%;
-    float: left;
+    width: auto;
     margin-left: 2em;
 }
 article h1 {
