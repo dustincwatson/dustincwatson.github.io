@@ -46,7 +46,6 @@ article h1 {
     float: left;
     padding-top: 20px;
     color: blue;
-    display: block;
 }
 article h2 {
     clear: both;
