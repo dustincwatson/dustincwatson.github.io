@@ -36,12 +36,12 @@ body {
     color: yellow; 
 }
 aside {
-    width: auto;
+    width: 75px;
     position: fixed;
     bottom: 45%;
     right: 0;
-    border: 3px solid green;
-    background-color: lightgreen;
+    border: 2px solid blue;
+    background-color: lightblue;
     padding: 1em;
 }
 article h1 {
