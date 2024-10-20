@@ -39,15 +39,6 @@ body {
 #nav_menu ul li a.current { 
     color: yellow; 
 }
-article {
-    clear: left;
-    width: 70%;
-    float: left;
-    column-count: 3;
-    column-rule: 4px dashed blue;
-    column-gap: 2em;
-    margin-left: 2em;
-}
 article h1 {
     clear: both;
     padding-top: 20px;
