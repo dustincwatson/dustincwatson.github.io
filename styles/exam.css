@@ -46,6 +46,7 @@ article h1 {
     color: blue;
     display: block;
     column-span: all;
+    border-top: 2px sold blue;
 }
 article h2 {
     clear: both;
