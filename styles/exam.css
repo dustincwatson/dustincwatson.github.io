@@ -69,3 +69,8 @@ aside {
     background-color: lightblue;
     padding: 1em;
 }
+footer {
+    clear: both;
+    text-align: center;
+    border-top: 2px solid maroon;
+}
