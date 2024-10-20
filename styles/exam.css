@@ -83,3 +83,12 @@ footer {
     text-align: center;
     border-top: 2px solid blue;
 }
+aside ol {
+    list-style-type: upper-roman;
+}
+aside ul.a {
+    list-style-type: square;
+}
+aside ul.b {
+    list-style-type: lower-alpha;
+}
