@@ -36,13 +36,22 @@ body {
     color: yellow; 
 }
 aside {
-    width: 200px;
+    width: 30%;
     position: fixed;
     bottom: 45%;
     right: 0;
     border: 2px solid blue;
     background-color: lightblue;
     padding: 1em;
+}
+article {
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted maroon;
+    column-gap: 2em;
+    margin-left: 2em;
 }
 article h1 {
     clear: both;
