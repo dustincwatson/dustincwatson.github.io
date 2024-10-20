@@ -42,7 +42,10 @@ body {
 article h1 {
     clear: both;
     padding-top: 20px;
-    color: blue
+    color: blue;
+}
+article h2 {
+    color: blue;
 }
 article img {
     float: left;
