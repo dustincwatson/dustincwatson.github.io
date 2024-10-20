@@ -39,7 +39,8 @@ body {
 #nav_menu ul li a.current { 
     color: yellow; 
 }
-article h3 {
-    column-span: all;
+article h1 {
+    clear: both;
+    padding-top: 20px;
     color: blue
 }
