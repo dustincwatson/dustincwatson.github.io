@@ -44,3 +44,8 @@ article h1 {
     padding-top: 20px;
     color: blue
 }
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
