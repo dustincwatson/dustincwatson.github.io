@@ -50,6 +50,8 @@ article {
 article h1 {
     column-span: all;
     color: blue;
+    padding-top: 10px;
+    border-top: 2px solid blue;
 }
 article h2 {
     clear: both;
