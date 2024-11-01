@@ -24,12 +24,8 @@ table.second th, table.second td {
     vertical-align: middle;
     border: 2px solid purple;
 }
-
-
-
 table.three {
     border-collapse: collapse;
-    margin: 20px auto;
     table-layout: auto; 
   }
 table.three caption {
@@ -45,9 +41,6 @@ table.three th {
     background-color: #a4d69c;
     color: black;
     padding: 12px;
-  }
-table.three tr:nth-of-type(1) {
-    border-bottom: 2px solid #f28e13;
   }
 table.three td {
     padding: 8px;
