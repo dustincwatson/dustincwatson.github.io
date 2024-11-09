@@ -41,7 +41,3 @@ fieldset {
    #buttons input {
     width: 10em;
    }
-   fieldset #buttons {
-    display: flex;
-    justify-content: center;
-   }
